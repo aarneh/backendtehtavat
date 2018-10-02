@@ -1,2 +1,3 @@
 # backendtehtavat
-tehtävä5
+tehtävä 5
+kohdat 1-11
